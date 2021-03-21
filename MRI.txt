@@ -1,0 +1,2504 @@
+﻿1
+00:00:01,097 --> 00:00:04,912
+Magnetic Resonance Imaging
+磁共振成像
+
+2
+00:00:07,954 --> 00:00:13,093
+Basic Physics & Brief History
+物理基础 & 简史
+
+3
+00:00:13,093 --> 00:00:14,729
+Magnetic resonance imaging is based on
+磁共振成像基于
+
+4
+00:00:14,729 --> 00:00:15,811
+the physics principle of
+核磁共振的物理学原理
+
+5
+00:00:15,897 --> 00:00:18,750
+Nuclear Magnetic Resonance or NMR
+简称NMR
+
+6
+00:00:18,750 --> 00:00:21,748
+first described in the 1930s and 40s
+最初提出于20世纪30年代和40年代
+
+7
+00:00:21,748 --> 00:00:23,827
+The basic principle of NMR deals with
+NMR的基本原理涉及
+
+8
+00:00:23,827 --> 00:00:25,512
+the interaction of certain atomic nuclei
+特定的原子核的相互作用
+
+9
+00:00:25,512 --> 00:00:27,224
+radio frequency energy
+射频能量
+
+10
+00:00:27,224 --> 00:00:30,077
+and a strong magnetic field
+在强磁场中的相互作用
+
+11
+00:00:30,077 --> 00:00:32,507
+This is a tough concept to grasp
+这是个很难理解的概念
+
+12
+00:00:32,507 --> 00:00:34,232
+so for comprehension purposes
+所以为了理解
+
+13
+00:00:34,314 --> 00:00:36,000
+We'll start with the basics
+我们从基础开始
+
+14
+00:00:38,230 --> 00:00:39,859
+First a few definitions...
+首先看一些定义
+
+15
+00:00:39,859 --> 00:00:41,400
+Radio frequency energy is part
+射频能量
+
+16
+00:00:41,400 --> 00:00:42,855
+of the electromagnetic spectrum
+是电磁波谱的一部分
+
+17
+00:00:42,855 --> 00:00:44,897
+that includes visible light and X-rays
+包括可见光到X-射线
+
+18
+00:00:44,897 --> 00:00:45,807
+As you can see
+正如你所见
+
+19
+00:00:46,088 --> 00:00:49,571
+the radio frequencies are at the far left of the spectrum
+射频在波谱左边很远处
+
+20
+00:00:49,572 --> 00:00:51,324
+visible light in the middle
+可见光在中间
+
+21
+00:00:51,921 --> 00:00:53,917
+and X-rays to the right
+X射线在右边
+
+22
+00:00:55,492 --> 00:00:57,805
+All of these waves are defined by
+所有的这些波由
+
+23
+00:00:57,805 --> 00:00:59,569
+a  wavelength and frequency
+频率的一个波的长度决定
+
+24
+00:00:59,569 --> 00:01:01,142
+The wavelength is the distance
+波长是
+
+25
+00:01:01,142 --> 00:01:02,918
+between peaks of the wave
+波峰之间的距离
+
+26
+00:01:02,918 --> 00:01:04,709
+and the frequency is how many cycles
+频率是每秒
+
+27
+00:01:04,709 --> 00:01:06,709
+are completed every second
+所能完成的周期数
+
+28
+00:01:19,126 --> 00:01:23,714
+The Amplitude is the height or power of the wave
+振幅是波的高度或力度
+
+29
+00:01:23,714 --> 00:01:25,595
+When talking about two or more waves
+当说到两个或更多的波时
+
+30
+00:01:25,595 --> 00:01:27,915
+we can also describe a Phase
+我们还会用到相位来描述
+
+31
+00:01:27,915 --> 00:01:29,556
+The blue and orange waves on the screen
+片中蓝色和橙色的波
+
+32
+00:01:29,556 --> 00:01:31,145
+have the same frequency
+有着同样的频率
+
+33
+00:01:31,145 --> 00:01:34,305
+and line up completely so they are also in phase
+是完全一致的一条线，所以也是"同相"的
+
+34
+00:01:34,305 --> 00:01:36,837
+If we shift the orange wave to the right
+如果我们把橙色波往右移
+
+35
+00:01:36,837 --> 00:01:38,749
+the frequency remains the same
+频率依然一样
+
+36
+00:01:38,749 --> 00:01:40,986
+but the waves are now out of phase
+但波是"反相"的
+
+37
+00:01:40,986 --> 00:01:43,285
+or have been phase shifted
+或者说“相移”
+
+38
+00:01:44,973 --> 00:01:47,342
+On the other hand these two waves have
+另一方面，这两条波有着
+
+39
+00:01:47,342 --> 00:01:48,987
+different frequencies but start
+不同的频率，但起始时间相同
+
+40
+00:01:48,987 --> 00:01:52,147
+at the same time so they are in phase
+因此他们是“同相”的
+
+41
+00:01:52,147 --> 00:01:55,336
+For the purpose of NMR and MRI
+出于NMR和MRI的目的
+
+42
+00:01:55,336 --> 00:01:56,805
+radio frequency signals will be
+射频信号会被描述为
+
+43
+00:01:56,805 --> 00:02:00,148
+described by their unique Phase and Frequency
+其特定的"相位"和"频率"
+
+44
+00:02:02,797 --> 00:02:04,592
+A point on this computer screen is
+显示屏的一个点
+
+45
+00:02:04,592 --> 00:02:05,921
+called a pixel
+叫做注视点（pixel）
+
+46
+00:02:05,921 --> 00:02:08,546
+a concatenation of the words picture & element
+连接着图片和元素
+
+47
+00:02:08,546 --> 00:02:12,203
+MR images are made up of a series a Voxels
+MR图像由一系列的体素（Voxels）构成
+
+48
+00:02:12,203 --> 00:02:14,554
+or volume elements
+或者说体积元素（体元）
+
+49
+00:02:16,717 --> 00:02:19,116
+Each square on the picture corresponds to a
+图片上的每个方块都与
+
+50
+00:02:19,116 --> 00:02:21,214
+volume of tissue on the body
+身体上的一个体积化的组织有关
+
+51
+00:02:21,214 --> 00:02:24,547
+The MR machine is designed to measure the NMR signal
+MR机器被设计用于测量NMR信号
+
+52
+00:02:24,547 --> 00:02:28,345
+from each of the small volumes, localize them in 3D space
+从每一个小块，并将其定位于3D空间里
+
+53
+00:02:28,345 --> 00:02:31,244
+and plot them on a 256 by 256
+并把它们绘制于256*256
+
+54
+00:02:31,246 --> 00:02:35,833
+or 512 by 512 matrix to make a visible picture
+或者512*512的矩阵里，以获得可视的图像
+
+55
+00:02:39,850 --> 00:02:42,830
+With this in mind we'll first describe the principles
+记住这一点，我们首先描述出NMR的基本原理
+
+56
+00:02:42,830 --> 00:02:49,080
+of NMR in a single small square or box of tissue
+即以单个小方块或者立方体的组织为基础
+
+57
+00:02:54,076 --> 00:02:55,976
+I suspect most of us have some recollection
+我猜想我们大多数在童年时期
+
+58
+00:02:55,976 --> 00:02:58,514
+of constructing an electromagnet as a kid
+都收集过自制的电磁体
+
+59
+00:02:58,514 --> 00:03:03,204
+utilizing a common battery a switch
+用一个普通电池作为开关
+
+60
+00:03:03,205 --> 00:03:06,856
+an iron nail and a coil of wire
+一个铁钉置于清晰的导线中
+
+61
+00:03:09,625 --> 00:03:11,786
+Throw the switch, pick up some small steel balls
+通过开关，可以吸起一些小钢球
+
+62
+00:03:11,786 --> 00:03:14,604
+and consider yourself a mad scientist. Great stuff!
+然后感觉自己就是一个疯狂科学家之类的伟大之物
+
+63
+00:03:14,604 --> 00:03:17,726
+What we unknowingly demonstrated with that simple project
+我们通过这个小工程无意识中所展示出的
+
+64
+00:03:17,727 --> 00:03:20,520
+was the basic principle of Electromagnetism
+正是电磁学的基本原理
+
+65
+00:03:20,520 --> 00:03:22,571
+where a flowing current electrons
+流动电子流
+
+66
+00:03:22,571 --> 00:03:24,394
+has an associated magnetic field
+都有着相连的磁场
+
+67
+00:03:24,394 --> 00:03:27,827
+oriented 90 degrees from the direction of current flow
+或者和电流方向呈90度
+
+68
+00:03:27,827 --> 00:03:30,602
+The battery pushes the electrons around the wire
+电池把电子流推向导线周围
+
+69
+00:03:30,604 --> 00:03:34,121
+We coil the wire to add up all those little magnetic moments
+我们将导线做成线圈，加在所有小的磁性活动上
+
+70
+00:03:34,122 --> 00:03:37,222
+and add the steel nail to conduct the magnetic field to the
+在钢钉上产生出
+
+71
+00:03:37,222 --> 00:03:38,692
+object we want to pick up
+指向要吸起的物体的磁场
+
+72
+00:03:38,693 --> 00:03:41,118
+The direction of the magnetic field associated with
+磁场的方向
+
+73
+00:03:41,118 --> 00:03:43,812
+the coill is defined by the right hand rule
+由右手定定则来确定
+
+74
+00:03:43,813 --> 00:03:46,457
+Curl the fingers of your right hand in the direction
+弯曲你的右手手指
+
+75
+00:03:46,457 --> 00:03:48,350
+of the current flow through the coil
+四指指向的方向就是线圈上的电流方向
+
+76
+00:03:48,351 --> 00:03:50,398
+and your outstretched thumb will  point at the direction of
+你翘起的拇指将指向
+
+77
+00:03:50,398 --> 00:03:52,653
+the associated magnetic field
+其相关的磁场方向
+
+78
+00:03:52,654 --> 00:03:53,959
+With that in mind
+记住这一点
+
+79
+00:03:53,960 --> 00:03:56,978
+let's look at the simplest of all elements—Hydrogen
+让我们看一看最简单的元素——氢
+
+80
+00:03:56,979 --> 00:03:59,604
+The Hydrogen atom consists of a single proton
+氢原子由单个质子构成
+
+81
+00:03:59,605 --> 00:04:02,025
+in the nucleus with a single circulating electron
+质子位于原子核内，有一个电子
+
+82
+00:04:02,025 --> 00:04:04,002
+orbiting around that proton
+围绕其进行轨道旋转
+
+83
+00:04:04,028 --> 00:04:05,585
+for the principal of NMR
+对于NMR的基本原理来说
+
+84
+00:04:05,585 --> 00:04:07,953
+we don't care much about the electron
+我们不太关心电子
+
+85
+00:04:07,979 --> 00:04:11,221
+We're  interested only in that single central proton
+我们只关心一个原子核里
+
+86
+00:04:11,221 --> 00:04:14,413
+or nucleus  hence the descriptor nuclear
+的单个中心质子，所以
+
+87
+00:04:14,413 --> 00:04:16,813
+in the acronym NMR
+用NMR的首字母N来描述“核”
+
+88
+00:04:16,814 --> 00:04:20,003
+That unopposed proton in the nucleus just doesn't sit
+这种原子核里的没有对手的质子
+
+89
+00:04:20,003 --> 00:04:21,944
+statically in the centre of the atom
+不会乖乖呆在原子的中央
+
+90
+00:04:21,944 --> 00:04:27,145
+It actually rotates on its axis similar to the planets and stars
+事实上它和星球、星星类似，是围绕着轨道运行的
+
+91
+00:04:29,827 --> 00:04:31,769
+Because the proton is positively charged
+因为质子带正电荷
+
+92
+00:04:31,769 --> 00:04:34,715
+If we curl our fingers in the direction of rotation
+如果我们弯曲四指，向着旋转的方向
+
+93
+00:04:34,715 --> 00:04:38,186
+our thumb'll point in the direction of the small magnetic field
+拇指会指向小磁场的方向
+
+94
+00:04:38,186 --> 00:04:41,459
+associated with the each and everyone at the hydrogen protons
+是我们体内的每一个氢质子
+
+95
+00:04:41,460 --> 00:04:42,747
+or spins in our body
+都是相联系的自旋体
+
+96
+00:04:42,747 --> 00:04:45,418
+and fortunately for imaging purposes we have
+幸运的是，我们体内有许多氢原子
+
+97
+00:04:45,418 --> 00:04:47,740
+a lot of hydrogen atoms in our bodies
+可以达到成像的目的
+
+98
+00:04:47,741 --> 00:04:50,015
+An adult is about 60 percent water which contains
+一个成年人含有60%的水
+
+99
+00:04:50,016 --> 00:04:53,233
+two hydrogen atoms for every oxygen
+每个氧原子有两个氢原子
+
+100
+00:04:56,933 --> 00:05:00,405
+The energy storing molecules of fat and carbohydrates
+是储藏着一个脂肪和碳水化合物的能量
+
+101
+00:05:00,406 --> 00:05:03,561
+also contain an abundance of hydrogen with glucose sporting
+并且包含大量的带有葡萄糖的氢
+
+102
+00:05:03,562 --> 00:05:08,134
+12 hydrogens on a carbon oxygen hexagonal backbone
+在一个碳氧六角结构上运送12个氢
+
+103
+00:05:10,904 --> 00:05:14,084
+and the free fatty acid containing 2-3 hydrogens
+和包含了223个氢的自由脂肪酸
+
+104
+00:05:14,084 --> 00:05:16,417
+attached to every atom of the linear
+附带着线形或者树形
+
+105
+00:05:16,417 --> 00:05:18,617
+or branched chain carbon backbone
+碳链结构的每一个碳原子
+
+106
+00:05:19,900 --> 00:05:22,099
+Now, while we're walking around the earth,
+现在，当我们行走在地球上时
+
+107
+00:05:22,101 --> 00:05:25,558
+all of these little proton magnets or spins are randomly oriented
+所有的这些小质子磁体都是随机指向的自旋体
+
+108
+00:05:25,559 --> 00:05:28,189
+cancelling each other out and therefore
+互相都抵消了,于是
+
+109
+00:05:28,189 --> 00:05:30,996
+we're usually not magnetic. However
+通常是没有磁性的  然而
+
+110
+00:05:30,997 --> 00:05:33,112
+when we put any of us in a strong magnetic field
+当我们把自身某部分置于强磁场中
+
+111
+00:05:33,112 --> 00:05:36,404
+such as the one found in a standard MRI machine
+比如标准MRI机器所制造的磁场
+
+112
+00:05:36,405 --> 00:05:39,862
+all of these little spins or proton magnets lineup
+所有这些小自旋体或者质子磁场排成队
+
+113
+00:05:39,862 --> 00:05:42,723
+Most of them line up with the main magnetic field
+大部分都和主磁场一致的方向
+
+114
+00:05:42,724 --> 00:05:44,850
+a few line up directly opposite
+少数的直接和主磁场相反方向
+
+115
+00:05:44,851 --> 00:05:47,442
+the main magnetic field and nothing in between
+并且不存在两种状态的中间态
+
+116
+00:05:47,442 --> 00:05:50,853
+What determines the orientation is the amount of energy
+决定方向的是与每一个
+
+117
+00:05:50,854 --> 00:05:54,109
+associated with each of the individual atoms or protons
+独立的原子或质子的能量的总量
+
+118
+00:05:54,109 --> 00:05:56,880
+The ones with a little extra energy possibly
+没有多余能量的,可能
+
+119
+00:05:56,880 --> 00:05:58,548
+from some local increased heat
+可能来自一些上升的热量
+
+120
+00:05:58,548 --> 00:06:00,799
+will line up against the main magnetic field
+将会呈和主磁场相反方向
+
+121
+00:06:00,799 --> 00:06:04,551
+and therefore are considered to be in a high-energy state
+于是被认为是高能状态
+
+122
+00:06:04,553 --> 00:06:07,249
+the ones lining up with the main magnetic field
+那些和主磁场方向一致的
+
+123
+00:06:07,250 --> 00:06:11,172
+are in a low energy state
+是低能态
+
+124
+00:06:11,172 --> 00:06:13,515
+These protons don't simply point with
+这些质子不仅仅是指向
+
+125
+00:06:13,515 --> 00:06:15,356
+or against the main magnetic field
+或者反向于主磁场的
+
+126
+00:06:15,356 --> 00:06:18,216
+They actually precess much like a spinning top
+其实原先很像一个旋转陀螺
+
+127
+00:06:18,216 --> 00:06:19,958
+as it falls to the solid surface
+掉在一个固体平面上
+
+128
+00:06:19,958 --> 00:06:22,820
+The rate of precession can be determined exactly by
+进动频率会完全由
+
+129
+00:06:22,820 --> 00:06:25,217
+the Larmor frequency equation
+拉莫尔频率方程决定
+
+130
+00:06:25,217 --> 00:06:27,802
+which states that the rate of rotation is directly
+这个方程表示旋转的频率直接
+
+131
+00:06:27,804 --> 00:06:31,244
+proportional to the strength of the local magnetic field
+和当前磁场的力度成比例
+
+132
+00:06:35,380 --> 00:06:38,938
+At 1 Tesla, the Larmor frequency of a hydrogen proton
+在1T时，一个氢质子或者一个自旋体的
+
+133
+00:06:38,938 --> 00:06:42,165
+or spin is 42.58 megahertz
+拉莫尔频率是42.58兆赫
+
+134
+00:06:42,165 --> 00:06:46,985
+At 2 Tesla, 85.16 megahertz
+在2T时,是85.16兆赫
+
+135
+00:06:46,985 --> 00:06:50,685
+and at 3 Tesla 127.74 megahertz
+3T时是127.74兆赫
+
+136
+00:06:50,685 --> 00:06:54,629
+or basically 42.58 megahertz per Tesla
+或者基本上可以说42.85兆赫每T
+
+137
+00:06:54,629 --> 00:06:56,136
+This will be important when we're talking about
+这一点会很重要,当我们讨论
+
+138
+00:06:56,136 --> 00:06:59,847
+making an image from NMR data later on
+用之后的NMR数据来成像的时候
+
+139
+00:07:13,056 --> 00:07:15,667
+For demonstration purposes
+出于演示的目的
+
+140
+00:07:15,668 --> 00:07:17,509
+let's move all of our precessing protons
+让我们先不管所有的进动质子
+
+141
+00:07:17,509 --> 00:07:20,140
+to a common origin on a 3D graph
+先来看看3D图像的来源
+
+142
+00:07:20,140 --> 00:07:23,377
+As before, most of the protons are in a low energy state
+如前文所说,大部分的质子都处于低能态
+
+143
+00:07:23,377 --> 00:07:26,149
+pointing in the direction of the main magnetic field
+指向主磁场的方向
+
+144
+00:07:26,150 --> 00:07:28,668
+a few energetic protons are oriented
+而很少的一些能量质子是
+
+145
+00:07:28,668 --> 00:07:31,670
+against the main magnetic field in the high-energy state
+起初是反向于主磁场的高能态
+
+146
+00:07:31,671 --> 00:07:34,773
+Even though each proton is precessing in space
+尽管每一个质子在空间上进动着
+
+147
+00:07:34,773 --> 00:07:37,494
+when you cancel all the opposing vectors
+如果你去掉所有对立的矢量
+
+148
+00:07:37,494 --> 00:07:39,098
+you end up with a net magnetization
+你会得到一个净磁场
+
+149
+00:07:39,098 --> 00:07:42,613
+pointing with the large main external magnetic field
+指向最大的外部主磁场
+
+150
+00:07:42,614 --> 00:07:45,660
+as demonstrated in the simplified diagram on the right
+正如右边的简化图所示
+
+151
+00:07:45,661 --> 00:07:48,891
+This is called the longitudinal magnetization
+这叫做"纵向磁化"
+
+152
+00:07:48,891 --> 00:07:50,354
+Because it is in the same direction
+因为是在与最大
+
+153
+00:07:50,354 --> 00:07:53,420
+as the large main external magnetic field
+外部主磁场同一个方向
+
+154
+00:07:53,421 --> 00:07:56,048
+it cannot be measured or detected directly
+它不能被直接测量或者检测到
+
+155
+00:07:56,048 --> 00:07:59,452
+and is therefore inferred.  But we can change all that.
+所以是推测值 但我们可以改变它
+
+156
+00:07:59,452 --> 00:08:01,650
+Let's see what happens when we put energy
+来看看当我们把能量加到自旋体
+
+157
+00:08:01,651 --> 00:08:03,439
+into the spins or protons
+或者质子中时会发生什么
+
+158
+00:08:04,498 --> 00:08:07,153
+assuming our protons are sitting in a homogeneous
+假设所有质子是同质的
+
+159
+00:08:07,153 --> 00:08:08,711
+1 Testla field
+在1T的磁场中
+
+160
+00:08:08,711 --> 00:08:11,406
+the Larmor equation states that the precession rate
+拉莫尔方程呈现的这些自旋体的
+
+161
+00:08:11,406 --> 00:08:14,607
+of these spins is 42.58 megahertz
+进动率是42.58兆赫
+
+162
+00:08:14,607 --> 00:08:18,002
+if we transmit a radio frequency pulse of exactly
+如果我们以42.58兆赫
+
+163
+00:08:18,003 --> 00:08:21,503
+42.58 megahertz in the vicinity of the protons
+传输射频脉冲在质子附近
+
+164
+00:08:21,503 --> 00:08:22,877
+two things happen
+会发生两件事
+
+165
+00:08:22,877 --> 00:08:24,635
+To make this a little easier to see
+为了便于看明白
+
+166
+00:08:24,636 --> 00:08:26,476
+we're going to stop the precession
+我们要把质子的
+
+167
+00:08:26,477 --> 00:08:28,019
+of the protons for a moment
+进动暂停一会儿
+
+168
+00:08:28,019 --> 00:08:31,369
+First, the protons will absorb that energy and flip
+首先,质子会在高能态化的自旋下
+
+169
+00:08:31,369 --> 00:08:33,753
+the spins into the higher energy state
+吸收能量后进行翻转
+
+170
+00:08:33,754 --> 00:08:36,775
+If we put in enough energy to push 50 percent
+如果我们投入足够的能量来
+
+171
+00:08:36,775 --> 00:08:39,312
+of the proton population into the high state,
+把质子总和的50%推向高能态
+
+172
+00:08:39,313 --> 00:08:41,898
+in our case 4 up and 4 down
+就我们的例子而言,就是上推和下推
+
+173
+00:08:41,898 --> 00:08:45,620
+you can see our longitudinal magnetization reduces to 0
+你会看到它的纵磁化量减小到了0
+
+174
+00:08:45,620 --> 00:08:48,940
+as the opposing magnetic forces cancel each other out
+随着相对的磁力互相抵消掉
+
+175
+00:08:48,940 --> 00:08:52,339
+In addition, the sinusoidal radio frequency pushes
+此外,正弦无线电频率自一致起
+
+176
+00:08:52,340 --> 00:08:55,459
+the protons to synchronize and spin together
+把质子推向了同步状态
+
+177
+00:08:55,460 --> 00:08:58,575
+This is the Resonance portion of an NMR
+这是NMR的“共振”部分
+
+178
+00:08:58,575 --> 00:09:01,645
+if we add up all the magnetic moment
+如果我们加上所有的磁距
+
+179
+00:09:01,645 --> 00:09:04,785
+you can see that we now have a net magnetic force
+你会看到我们能得到一个净磁力
+
+180
+00:09:04,785 --> 00:09:07,525
+oriented horizontally or 90 degrees
+以水平或者90度角
+
+181
+00:09:07,525 --> 00:09:08,954
+to the longitudinal magnetization
+相对于纵磁化
+
+182
+00:09:08,954 --> 00:09:11,878
+this is called the Transverse Magnetization
+这叫“横磁化”
+
+183
+00:09:11,878 --> 00:09:14,206
+and this magnetization can be detected
+这种磁化能够被
+
+184
+00:09:14,207 --> 00:09:16,207
+with a coil or antenna.
+一种天线检测到
+
+185
+00:09:19,925 --> 00:09:22,121
+Just as a current can create a magnet
+正如电流可以产生磁场
+
+186
+00:09:22,121 --> 00:09:24,075
+a magnet can create a current
+磁场也可以产生电流
+
+187
+00:09:24,075 --> 00:09:25,216
+If we have a coil of wire
+如果我们有一个线圈
+
+188
+00:09:25,216 --> 00:09:27,683
+connected to an ammeter or current meter
+和一个安培计或者电流表相连
+
+189
+00:09:27,683 --> 00:09:30,302
+and we place a magnet through the coil
+然后我们把一个磁体穿过线圈
+
+190
+00:09:30,303 --> 00:09:33,269
+we will generate an electrical current through the wire
+我就能通过导线产生一个电流
+
+191
+00:09:33,269 --> 00:09:34,748
+when we pull the magnet back
+当我们把磁体拉回来
+
+192
+00:09:34,749 --> 00:09:36,625
+the current flows in the opposite direction
+电流就会反方向流动
+
+193
+00:09:36,625 --> 00:09:39,855
+if we spin the magnet we generate a sinusoidal or
+如果我们旋转磁体,就会产生来回摆动
+
+194
+00:09:39,855 --> 00:09:43,623
+alternating electrical current- the basis of a generator
+是发电机的交流电基础
+
+195
+00:09:45,232 --> 00:09:49,108
+Similarly, the transverse magnetization rotates around
+类似地,横磁化不停转动
+
+196
+00:09:49,109 --> 00:09:52,649
+as the protons precess and generates a small
+随着质子的进动,并且在区域
+
+197
+00:09:52,649 --> 00:09:55,476
+but measurable current in a regional coil of wire
+线圈中产生出很小但可测到的电流
+
+198
+00:09:55,476 --> 00:09:58,099
+This is the result we're looking for in nuclear
+这就是我们在磁共振中
+
+199
+00:09:58,099 --> 00:10:00,884
+magnetic resonance but it's still not the whole story
+得到的结果   但还不是全部
+
+200
+00:10:00,884 --> 00:10:03,666
+After we remove the radio frequency signal
+在我们去掉频射信号之后
+
+201
+00:10:03,666 --> 00:10:07,057
+the protons will relax back into their baseline position
+质子会归于基线位置
+
+202
+00:10:07,057 --> 00:10:08,697
+Again for demonstration purposes
+同样为了说明的目的
+
+203
+00:10:08,697 --> 00:10:11,337
+we'll temporarily stop the precession
+我们会暂停活动
+
+204
+00:10:11,831 --> 00:10:14,705
+the first thing that happens is the protons or spins,
+首先会发生的是，质子是自旋体
+
+205
+00:10:14,706 --> 00:10:16,847
+being all positively charged,
+带正电荷
+
+206
+00:10:16,847 --> 00:10:19,242
+will repel each other and move apart
+会互相排斥并分离
+
+207
+00:10:19,242 --> 00:10:23,122
+as they spread apart we lose that transverse magnetization
+随着他们的四散分离，就会失去横磁化
+
+208
+00:10:23,122 --> 00:10:27,782
+This process is called the T2 or Spin-Spin Relaxation
+这个过程叫做T2，或者“自旋驰豫”
+
+209
+00:10:27,782 --> 00:10:30,011
+because it has to do with the interaction
+因为这和相互作用有关
+
+210
+00:10:30,011 --> 00:10:32,371
+of the protons or spins themselves
+所以质子是自旋的
+
+211
+00:10:32,371 --> 00:10:35,861
+No net energy transfer occurs with this relaxation
+这种驰豫并没有发生净能量转移
+
+212
+00:10:35,862 --> 00:10:39,225
+The other relaxation occurs as the high-energy protons
+另一种驰豫发生于高能质子
+
+213
+00:10:39,225 --> 00:10:41,395
+fall back into the low energy state
+回落到低能态时
+
+214
+00:10:41,396 --> 00:10:44,715
+As this happens, the energy that was previously absorbed
+这时候，之前被质子吸收的能量
+
+215
+00:10:44,715 --> 00:10:47,730
+by the protons is dissipated into the surrounding tissues
+消散到周围的组织里
+
+216
+00:10:47,730 --> 00:10:49,434
+in the form of heat and thus
+以热量的形式
+
+217
+00:10:49,434 --> 00:10:52,504
+involves an actual transfer of energy
+实现了真正的能量转移
+
+218
+00:10:55,811 --> 00:10:58,563
+As these protons fall back down to baseline,
+随着这些质子回到基线
+
+219
+00:10:58,563 --> 00:11:01,603
+we regrow the longitudinal magnetization
+我们再次形成纵磁化
+
+220
+00:11:01,603 --> 00:11:06,076
+This is referred to as the T1 or Spin-Lattice Relaxation
+这被称为T1,或者"自旋-点阵弛豫"
+
+221
+00:11:06,076 --> 00:11:09,276
+because it involves the transfer energy from the spins
+因为包含了自旋体向周围组织
+
+222
+00:11:09,277 --> 00:11:12,073
+to the surrounding tissues or lattice
+或者点阵的能量转移
+
+223
+00:11:14,839 --> 00:11:16,341
+Putting this all together
+把这些总和起来
+
+224
+00:11:16,341 --> 00:11:18,758
+a sufficient radio frequency pulse
+充足的频射脉冲
+
+225
+00:11:18,758 --> 00:11:21,172
+tuned to the natural precession frequency
+调整为进动质子的
+
+226
+00:11:21,172 --> 00:11:22,828
+of the precessing protons
+自然进动频率
+
+227
+00:11:22,828 --> 00:11:26,251
+is put into the tissues to flip 50 percent of the spins
+就是把50%自旋体的翻转到组织里
+
+228
+00:11:26,251 --> 00:11:29,338
+into the high-energy state and cause the protons
+成为高能态,并且使得质子
+
+229
+00:11:29,338 --> 00:11:31,986
+to synchronize in phase or spin together
+在相位上同步,或者同步旋转
+
+230
+00:11:31,987 --> 00:11:34,695
+thus moving the longitudinal magnetization
+因此移动纵磁化
+
+231
+00:11:34,695 --> 00:11:37,163
+90 derees into the transverse plane
+90度到横磁化
+
+232
+00:11:37,163 --> 00:11:39,957
+The transverse magnetization, precessing
+横磁化在本地质子的
+
+233
+00:11:39,958 --> 00:11:42,559
+at the resonant frequency of the local protons
+共振频率下进动
+
+234
+00:11:42,560 --> 00:11:45,455
+produces a radio signal of the same frequency
+产生了一种同样频率的无线电信号
+
+235
+00:11:45,456 --> 00:11:47,913
+that can be detected by a coil of wire
+能够被线圈检测到
+
+236
+00:11:48,054 --> 00:11:51,596
+As the energy is removed,  the protons first move apart
+随着能量的移去，质子第一次
+
+237
+00:11:51,596 --> 00:11:54,785
+in a T2 or Spin-Spin Relaxation
+在一个T2驰豫或者自旋驰豫中相互分开
+
+238
+00:11:54,843 --> 00:11:57,186
+destroying the transverse magnetization
+破坏了横磁化
+
+239
+00:11:57,187 --> 00:12:00,987
+And then, through T1 or spin lattice relaxation,
+然后通过T1驰豫或者“自旋-点阵弛豫”
+
+240
+00:12:00,988 --> 00:12:03,659
+fall back into the lower energy state
+落回到低能态
+
+241
+00:12:03,659 --> 00:12:05,511
+dissipating the previously absorbed energy
+把之前吸收的能量
+
+242
+00:12:05,512 --> 00:12:08,241
+into the surrounding tissues in the form of heat
+以热量的形式扩散到周围的组织
+
+243
+00:12:08,241 --> 00:12:10,218
+while regrowing or restoring 
+在再次形成或者恢复
+
+244
+00:12:10,218 --> 00:12:13,039
+the original longitudinal magnetization
+最初的纵磁化的时候
+
+245
+00:12:13,040 --> 00:12:14,879
+Because these protons in our bodies
+因为这些我们身体里的质子
+
+246
+00:12:14,879 --> 00:12:16,347
+have different local environment,
+有着不同的所属环境
+
+247
+00:12:16,347 --> 00:12:19,253
+some associate with the free-flowing water molecules
+有些与与自由流动水分子有关
+
+248
+00:12:19,253 --> 00:12:22,151
+while others are fixed in position associated with the structural
+而其它的与结构有关保持在原地
+
+249
+00:12:22,152 --> 00:12:25,105
+or energy storing molecules of protein and fat,
+或者能量强分子一个蛋白质和脂肪
+
+250
+00:12:25,105 --> 00:12:29,475
+they have characteristic differences in their T1 and T2 relaxations
+他们的T1和T2驰豫有着不同的特点
+
+251
+00:12:29,475 --> 00:12:32,018
+We can accentuate and measure these differences
+我们可以通过强调和测量这些不同
+
+252
+00:12:32,018 --> 00:12:34,240
+by changing how quickly we put
+通过改变加入不同的
+
+253
+00:12:34,241 --> 00:12:36,048
+in the radio frequency energy
+频射能量
+
+254
+00:12:36,049 --> 00:12:38,975
+or the Repetition Time designated TR
+或者重复时间（表示为TR）
+
+255
+00:12:38,976 --> 00:12:41,352
+and how quickly we choose to listen to the signal
+以及我们选择接收
+
+256
+00:12:41,353 --> 00:12:44,011
+coming back from the transverse magnetization
+来自横磁化信号有多快
+
+257
+00:12:44,012 --> 00:12:48,369
+or Echo Time designated TE of the precessing protons
+或者用进动质子的"回声时间"(TE)来表示
+
+258
+00:12:48,551 --> 00:12:51,417
+This process is referred to as the Pulse Sequence
+这个过程被称为脉冲序列
+
+259
+00:12:51,418 --> 00:12:54,172
+and we will use a sample of fat and water
+我们用水中的脂肪作为例子
+
+260
+00:12:54,172 --> 00:12:58,395
+to demonstrate these differences
+来展示这些不同
+
+261
+00:13:03,321 --> 00:13:06,630
+As before to simplify and maximize comprehension
+和之前一样, 为了简化和便于解释
+
+262
+00:13:06,630 --> 00:13:08,950
+we're going to stop the precession of the protons
+我们会暂停质子的进动
+
+263
+00:13:08,950 --> 00:13:11,365
+On the left is a group of spins or protons
+左边是一群质子自旋体
+
+264
+00:13:11,366 --> 00:13:14,611
+associated with fat and on the right, water
+和脂肪相似, 而右边
+
+265
+00:13:23,443 --> 00:13:26,068
+When we put in our resonant radio frequency Pulse,
+当我们加入磁共振射频脉冲
+
+266
+00:13:26,068 --> 00:13:28,288
+all the protons absorbed that energy,
+所有质子吸收了能量
+
+267
+00:13:28,288 --> 00:13:30,057
+flip into the high-energy state
+翻转成高能态
+
+268
+00:13:30,059 --> 00:13:32,485
+and spin together to produce a 90 degree Pulse
+并且一起自旋,形成一个90度脉冲
+
+269
+00:13:32,485 --> 00:13:35,001
+or transverse magnetization
+或者横磁化
+
+270
+00:13:37,189 --> 00:13:39,281
+If we wait a sufficient amount of time,
+如果我们等待足够的时间
+
+271
+00:13:39,281 --> 00:13:44,453
+the protons will move apart in a T2 or Spin-Spin Relaxation
+质子将在T2驰豫或者自旋驰豫中分开
+
+272
+00:13:44,454 --> 00:13:47,145
+and the transverse magnetization will decay
+于是纵磁化就衰退了
+
+273
+00:13:47,146 --> 00:13:50,049
+The protons associate with the free fatty acids,
+质子就像自由脂肪酸
+
+274
+00:13:50,049 --> 00:13:53,339
+being relatively fixed in position, decay rapidly
+在原地相对快速的衰退
+
+275
+00:13:53,339 --> 00:13:55,947
+as the spins push away from one another
+随着自旋体互相排斥
+
+276
+00:13:55,947 --> 00:13:58,237
+They also give up their absorbed energy
+它们还更快地放掉了吸收的能量
+
+277
+00:13:58,237 --> 00:14:00,559
+more rapidly as they fall back to base line
+随着退回到了基线
+
+278
+00:14:00,560 --> 00:14:03,688
+in a T1 or spin-lattice relaxation,
+在T1驰豫或者自旋-点阵驰豫中
+
+279
+00:14:03,688 --> 00:14:06,938
+depositing heat energy into the surrounding tissues
+存储的热能散入周围组织
+
+280
+00:14:06,938 --> 00:14:10,134
+and regrowing the longitudinal magnetization
+重新形成纵磁化
+
+281
+00:14:10,134 --> 00:14:11,455
+on the other hand
+另一方面
+
+282
+00:14:11,455 --> 00:14:13,547
+the protons in the freely flowing water
+在自由流动水中的质子
+
+283
+00:14:13,548 --> 00:14:15,283
+can hold on to their energy and
+会保持其能量
+
+284
+00:14:15,283 --> 00:14:17,228
+continue to spin together in phase
+继续同相地一起自旋
+
+285
+00:14:17,228 --> 00:14:20,525
+maintaining the transverse magnetization
+就是保持了横磁化
+
+286
+00:14:24,208 --> 00:14:26,481
+At this point, when we turn on our receiving coil
+此时当我们打开接受器
+
+287
+00:14:26,482 --> 00:14:29,146
+and measure the signal coming back from the protons
+测量来自质子的信号反馈
+
+288
+00:14:29,146 --> 00:14:32,706
+the relatively large transverse magnetization in water
+相对很大的横磁化和水
+
+289
+00:14:32,706 --> 00:14:35,786
+will give a strong signal   while the smaller or
+会显示很强的信号  而更小的
+
+290
+00:14:35,786 --> 00:14:38,601
+absent transverse magnetization in fat
+或者抽象的类似脂肪的横磁化
+
+291
+00:14:38,602 --> 00:14:40,012
+will give a weak signal
+就会显示很弱的信号
+
+292
+00:14:40,012 --> 00:14:42,608
+by convention, the strong water signal
+按照惯例，强烈的水信号
+
+293
+00:14:42,608 --> 00:14:45,083
+will be assigned a grayscale color of white
+会指定为白色的灰度颜色
+
+294
+00:14:45,083 --> 00:14:49,440
+and the weak signal of fat will be dark gray or black
+脂肪的弱信号会表示为深灰或者黑色
+
+295
+00:14:51,843 --> 00:14:55,107
+Hence, to accentuate the different T2 relaxations
+因此为了强调我们体内的
+
+296
+00:14:55,108 --> 00:14:56,728
+of the protons in our bodies
+质子的T2驰豫
+
+297
+00:14:56,728 --> 00:14:59,596
+we would wait a long period between radio pulses
+我们会在频射脉冲之间等很长一段时间
+
+298
+00:14:59,596 --> 00:15:03,164
+referred to as a long repetition time TR
+叫做长重复时间TR
+
+299
+00:15:03,165 --> 00:15:05,990
+and wait a long time to listen for the return signal or
+并在接受返回信号或者回声时等很长一段时间
+
+300
+00:15:05,990 --> 00:15:09,622
+echo referred to as a long echo time TE
+叫做长回声时间TE
+
+301
+00:15:09,622 --> 00:15:13,719
+And these differences can be measured and recorded
+这些区别都可以被测量和记录
+
+302
+00:15:14,882 --> 00:15:17,623
+Using the same tissues in their baseline state
+用基线状态下的相同组织
+
+303
+00:15:17,623 --> 00:15:21,030
+to accentuate the differences in T1 relaxations
+来强调T1驰豫之间的区别
+
+304
+00:15:21,030 --> 00:15:24,370
+we again put in a 90-degree resonance radio frequency pulse
+我们又一次加入了90度磁共振频射脉冲
+
+305
+00:15:24,370 --> 00:15:27,525
+which flips the protons into the high-energy state
+这种脉冲把质子翻转到高能态
+
+306
+00:15:27,525 --> 00:15:29,019
+and pushes them in phase
+并把它们推向同相
+
+307
+00:15:29,019 --> 00:15:31,788
+to produce our transverse magnetization
+从而产生横磁化
+
+308
+00:15:37,750 --> 00:15:41,089
+T2 relaxation occurs as the protons move apart-
+T2驰豫发生于质子分开的时候
+
+309
+00:15:41,090 --> 00:15:42,785
+faster in fat then water
+比水中的脂肪要快
+
+310
+00:15:42,785 --> 00:15:46,318
+and then the protons fall back into the low energy state
+然后质子落回低能态
+
+311
+00:15:46,318 --> 00:15:48,629
+dissipating the absorbed energy as heat
+以热能的形式消散吸收的能量
+
+312
+00:15:48,630 --> 00:15:50,156
+into the surrounding tissues
+到周围的组织中
+
+313
+00:15:50,156 --> 00:15:53,268
+and regrowing the longitudinal magnetization
+重新形成了纵磁化
+
+314
+00:15:53,268 --> 00:15:55,461
+Again, because the protons in water
+同样因为水里质子
+
+315
+00:15:55,461 --> 00:15:56,938
+are fluid and move freely
+是液体能自由移动
+
+316
+00:15:56,938 --> 00:15:59,558
+they tend to hold on to that energy longer
+它们倾向于更长时间持有能量
+
+317
+00:15:59,558 --> 00:16:02,091
+and the protons stay in the higher energy state
+而质子保持在高能态
+
+318
+00:16:02,091 --> 00:16:05,315
+with little regrowth of the longitudinal magnetization
+很少重构纵磁化
+
+319
+00:16:05,317 --> 00:16:08,110
+whereas the tightly bound fat protons
+然而紧紧合并的脂肪质子
+
+320
+00:16:08,110 --> 00:16:09,815
+more rapidly give up that energy
+更快地释放能量
+
+321
+00:16:09,816 --> 00:16:11,756
+and return to the lower energy state
+作为对低能态的反馈
+
+322
+00:16:11,756 --> 00:16:15,496
+rapidly regrowing the longitudinal magnetization
+做出纵磁化的快速重构
+
+323
+00:16:15,496 --> 00:16:18,464
+If we then quickly put in another resonant
+如果我们快速加入另一个
+
+324
+00:16:18,465 --> 00:16:20,603
+90-degree radio frequency pulse,
+90度角的共振频射脉冲
+
+325
+00:16:20,603 --> 00:16:24,223
+the fully recovered fat protons will produce a large
+完全恢复了的脂肪质子会产生一个大的
+
+326
+00:16:24,223 --> 00:16:27,942
+transverse magnetization and a strong measured signal
+纵磁化和一个强可测信号
+
+327
+00:16:27,942 --> 00:16:31,027
+that we can record if we listen to the return signal
+如果我们接收返回信号，我们就能记录下来
+
+328
+00:16:31,028 --> 00:16:35,480
+or echo shortly after the second radio frequency pulse
+或者在第二次频射脉冲之后很快出现的回声
+
+329
+00:16:38,635 --> 00:16:39,371
+However
+然而
+
+330
+00:16:39,541 --> 00:16:42,637
+the water protons are still in a high-energy state
+水质子依然是高能态
+
+331
+00:16:42,638 --> 00:16:46,085
+with little regrowth of the longitudinal magnetization
+很少重构纵磁化
+
+332
+00:16:46,086 --> 00:16:49,342
+Therefore the new radio frequency pulse pushes more of
+因此新的频射脉冲翻转出更多的
+
+333
+00:16:49,342 --> 00:16:52,163
+the low energy protons into the high-energy state
+低能质子为高能态
+
+334
+00:16:52,164 --> 00:16:55,712
+and can only produce a small transverse magnetization
+只能产生出很小的横磁化
+
+335
+00:16:55,712 --> 00:16:58,700
+as well as a net longitudinal magnetization
+加上指向180度的
+
+336
+00:16:58,701 --> 00:17:01,342
+oriented 180 degrees
+净纵磁化
+
+337
+00:17:01,343 --> 00:17:04,079
+or directly opposite the main magnetic field
+或者直接相反于主磁场
+
+338
+00:17:04,079 --> 00:17:06,901
+This configuration in the water protons
+这种在水质子中的情形
+
+339
+00:17:06,901 --> 00:17:10,063
+will give a low amplitude or low energy way
+会得到一种低振幅或者低能量的方式
+
+340
+00:17:10,063 --> 00:17:12,890
+when we listen for the echo or return signal
+当我们接收回声或者返回信号时
+
+341
+00:17:12,891 --> 00:17:13,921
+in other words
+换句话说
+
+342
+00:17:13,922 --> 00:17:16,860
+the protons in the water are saturated with energy and
+水中的质子被能量充满
+
+343
+00:17:16,860 --> 00:17:20,510
+can no longer produce a strong transverse magnetization
+再也无法产生一个强横磁化
+
+344
+00:17:20,510 --> 00:17:22,844
+therefore to accentuate the differences
+因此为了强调T1驰豫中
+
+345
+00:17:22,845 --> 00:17:26,901
+in the T1 relaxation between the protons in fat and water
+脂肪和水的质子之间的区别
+
+346
+00:17:26,902 --> 00:17:29,006
+we want to rapidly put in our
+我们想快速加入
+
+347
+00:17:29,006 --> 00:17:30,597
+resonance radio frequency pulses
+磁共振频射脉冲
+
+348
+00:17:30,597 --> 00:17:33,832
+or a short repetition time TR
+或者短重复时间TR
+
+349
+00:17:33,833 --> 00:17:36,282
+and quickly listen for the return signal
+然后快速接收返回信号
+
+350
+00:17:36,283 --> 00:17:39,112
+or short echo time TE
+或者短回声时间TE
+
+351
+00:17:41,548 --> 00:17:43,738
+Now this is a difficult concept and you
+这是一个难懂的概念
+
+352
+00:17:43,739 --> 00:17:46,478
+may have to listen to it a few times to get it to sink in
+你可能不得不听多次才能理解到位
+
+353
+00:17:46,478 --> 00:17:49,670
+but to summarize, the T1 relaxation effects
+但是总而言之，T1驰豫效应
+
+354
+00:17:49,670 --> 00:17:52,762
+are accentuated by rapidly exposing the protons
+就是由快速暴露的质子
+
+355
+00:17:52,762 --> 00:17:54,342
+to radiofrequency energy
+强化为高频能量
+
+356
+00:17:54,343 --> 00:17:57,100
+and keeping the spins in the high energy state
+并在高能态持续自旋
+
+357
+00:17:57,101 --> 00:18:00,607
+and thus reducing the effective longitudinal magnetization
+从而减少了实际纵磁化
+
+358
+00:18:00,608 --> 00:18:03,020
+tissues that recover quickly will have a large signal
+快速恢复的组织会有一个强信号
+
+359
+00:18:03,021 --> 00:18:06,199
+although slow to recover will have a low signal
+而缓慢恢复的组织会有一个弱信号
+
+360
+00:18:06,199 --> 00:18:09,118
+T2 effects on the other hand are accentuated
+另一方面,T2效应是由
+
+361
+00:18:09,119 --> 00:18:11,942
+by a prolonged echo time to allow the spins
+延长的回声时间从而允许自旋体
+
+362
+00:18:11,943 --> 00:18:13,477
+to move away from each other
+互相分离
+
+363
+00:18:13,477 --> 00:18:16,424
+and accentuate the differences in T2 relaxation
+并且强调了T2驰豫
+
+364
+00:18:16,424 --> 00:18:18,852
+between regional tissues or chemicals
+在不同区域的组织或化学物质的区别
+
+365
+00:18:18,853 --> 00:18:21,009
+so a T2-weighted image
+所以T2图像
+
+366
+00:18:21,009 --> 00:18:24,133
+is obtained with a pulse sequence of a long TR
+是由一个长TR和一个长TE的脉冲序列得到的
+
+367
+00:18:24,134 --> 00:18:27,645
+and a long TE decreasing the T1 affect
+随着TR而减少了T1效应
+
+368
+00:18:27,645 --> 00:18:31,757
+along TR and enhancing the T2 affect with along TE
+并随着TE而升高了T2效应
+
+369
+00:18:35,798 --> 00:18:38,127
+a T1-weighted image on the other hand
+另一方面，一个T1图像
+
+370
+00:18:38,128 --> 00:18:41,148
+is obtained with a pulse sequence of a short TR
+由一个短TR的脉冲序列得到
+
+371
+00:18:41,149 --> 00:18:44,991
+in a short TE enhancing the T1 relaxation
+在短TE中升高T1驰豫
+
+372
+00:18:44,992 --> 00:18:47,300
+and minimizing the T2 affects
+并最小化了T2效应
+
+373
+00:18:50,592 --> 00:18:53,752
+in between these two is the proton density Pulse sequence
+在这两者之间是质子密度脉冲序列
+
+374
+00:18:53,752 --> 00:18:56,877
+which is obtained with a long TR and a short TE
+由长TR和短TE得到
+
+375
+00:18:56,877 --> 00:19:00,075
+effectively minimizing the T1 and T2 affect
+有效地最小化了T1和T2效应
+
+376
+00:19:00,075 --> 00:19:03,284
+and basically giving us an idea of the absolute number
+基本上给我们一个绝对值
+
+377
+00:19:03,285 --> 00:19:07,616
+or density of protons in the region
+或者区域内一个质子的密度
+
+378
+00:19:08,045 --> 00:19:10,411
+the first to propose the use of NMR
+首先提出使用NMR
+
+379
+00:19:10,411 --> 00:19:13,604
+to diagnose disease in humans was Dr. Raymond Damadian
+来诊断人类疾病的是Raymond Damadian医生
+
+380
+00:19:13,605 --> 00:19:17,395
+who in the March 1971 addition of the journal Science
+他在1971年3月的科学杂志里
+
+381
+00:19:17,395 --> 00:19:19,376
+published a short article entitled
+发表了一篇简要文章
+
+382
+00:19:19,376 --> 00:19:22,037
+Tumor Detection by Nuclear Magnetic Resonance
+使用磁共振来检测肿瘤
+
+383
+00:19:22,038 --> 00:19:24,933
+in what he suggested that the NMR signal
+他提出来自体内肿瘤的
+
+384
+00:19:25,036 --> 00:19:26,329
+from tumors in the body
+NMR信号
+
+385
+00:19:26,330 --> 00:19:28,364
+could be differentiated from normal tissues
+能够和正常组织区分开
+
+386
+00:19:28,364 --> 00:19:30,842
+and therefore could be detected
+因此能够被检测
+
+387
+00:19:30,843 --> 00:19:34,187
+his original concept was not to make an anatomic picture
+他本来的想法不是构造一个解剖学图像
+
+388
+00:19:34,188 --> 00:19:37,783
+but to build a detector large enough to accommodate a human
+而是建造一个足够大的适用于人类的探测器
+
+389
+00:19:37,784 --> 00:19:39,912
+perform a whole body NMR
+做全身的NMR
+
+390
+00:19:39,913 --> 00:19:43,673
+and look for a characteristic T1 and T2 tumor signal
+寻求特定的T1和T2肿瘤信号
+
+391
+00:19:43,674 --> 00:19:46,237
+that would suggest you have a malignancy somewhere
+它会告诉你你有一个恶心肿瘤
+
+392
+00:19:46,237 --> 00:19:50,170
+in your body sort of a quick screening tool for malignancy
+在身体的某个部位,有点像恶性肿瘤的快速筛选工具
+
+393
+00:19:59,816 --> 00:20:03,501
+while Dr.Damadian's tumor detector never came to fruition
+尽管Damadian医生的肿瘤始终没能实现
+
+394
+00:20:03,501 --> 00:20:07,531
+we do use MR Spectroscopy in conjunction with a standard
+我们确实使用MR光谱学来连接标准
+
+395
+00:20:07,531 --> 00:20:09,906
+MR image to help distinguish benign
+MR图像，有助于从体内的恶性肿瘤
+
+396
+00:20:09,906 --> 00:20:12,824
+from malignant processes in the body
+中甄别出良性肿瘤
+
+397
+00:20:13,899 --> 00:20:15,720
+to make an NMR picture here
+为了构建一个NMR图像
+
+398
+00:20:15,720 --> 00:20:19,914
+MRI as we know it today we have to be able to localize
+正如我们如今所知的MRI，我们必须能够
+
+399
+00:20:19,914 --> 00:20:23,497
+the signals coming from the sample or tissues in 3D space
+通过3D空间的样本或者组织，定位信号
+
+400
+00:20:23,497 --> 00:20:26,223
+the first to propose a technique to do just that
+最先提出这种技术的
+
+401
+00:20:26,223 --> 00:20:27,900
+was Dr. Paul Lauterbur
+是Paul Lauterbur医生
+
+402
+00:20:29,720 --> 00:20:33,380
+in the March 19, 1973 addition of nature
+在1973年3月19日的自然杂志
+
+403
+00:20:33,381 --> 00:20:35,852
+Lauterbur published a brief article entitled
+史无前例地发表了一个简要文章
+
+404
+00:20:35,852 --> 00:20:39,199
+Image formation by induced local interactions
+通过诱发本地相互作用来进行成像
+
+405
+00:20:39,199 --> 00:20:42,026
+examples employing nuclear magnetic resonance
+示例使用核磁共振
+
+406
+00:20:42,027 --> 00:20:44,348
+In the article he describes a technique
+文章中他描述了一种技术
+
+407
+00:20:44,348 --> 00:20:47,346
+using magnetic radiance to identify the location of
+使用磁辐射来区分充满水的
+
+408
+00:20:47,347 --> 00:20:50,962
+two 1-millimeter capillary tubes filled with water
+两个1毫米的毛细管
+
+409
+00:20:50,962 --> 00:20:53,409
+both of which were submerged in a larger
+两者毛细管浸在一个
+
+410
+00:20:53,410 --> 00:20:56,525
+4.2 millimeter tube filled with heavy water
+4.2毫米的充满重水的大管内
+
+411
+00:20:56,525 --> 00:20:59,180
+Heavy water has the symbol D2O
+重水表示为D2O
+
+412
+00:20:59,180 --> 00:21:01,650
+because the hydrogen atoms in heavy water
+因为氢原子和重水
+
+413
+00:21:01,651 --> 00:21:04,941
+are isotopes of the standard Protium configuration
+是标准“氕”结构的同位素
+
+414
+00:21:04,941 --> 00:21:07,556
+with one proton in the nucleus
+在原子核里有一个质子
+
+415
+00:21:07,557 --> 00:21:11,016
+the deuterium atom on the other hand contains a neutron
+另一方面“氘”原子包含一个中子
+
+416
+00:21:11,016 --> 00:21:14,236
+as well as the proton which limits the spin of the nucleus
+并且质子限制了原子核的自旋
+
+417
+00:21:14,236 --> 00:21:18,021
+and therefore does not give a good NMR signal
+因此得不到好的NMR信号
+
+418
+00:21:20,284 --> 00:21:24,620
+Lauterbur placed the apparatus in high field NMR Magnet shown
+强磁场NMR磁体中的许多设备
+
+419
+00:21:24,621 --> 00:21:28,085
+and developed a technique to identify the actual orgin
+并发展成为真正的把NMR信号
+
+420
+00:21:28,085 --> 00:21:30,955
+of the NMR signals from the standard water
+从标准水中区别开的一种检测技术
+
+421
+00:21:30,955 --> 00:21:32,515
+this is the image produced
+这是生成的图像
+
+422
+00:21:32,515 --> 00:21:34,544
+very primitive by today's standards
+以现在的标准来看非常粗糙
+
+423
+00:21:34,544 --> 00:21:37,639
+but clearly shows the location of the two capillary
+但是清晰地显示出两个毛细管
+
+424
+00:21:37,639 --> 00:21:39,766
+tubes of  substandard water
+在标准水中位置
+
+425
+00:21:39,766 --> 00:21:42,824
+lot ever called his technique Zeugmatography
+把他的这种技术称为Zeugma成像
+
+426
+00:21:42,824 --> 00:21:45,267
+from the Greek Zeugma which means
+来自希腊Zeuma，意思是
+
+427
+00:21:45,268 --> 00:21:47,976
+"that which is used for joining"
+“用来连接的”
+
+428
+00:21:50,456 --> 00:21:53,122
+to show you how we make an actual MR picture
+为了给你演示我们是如何做出真正的MR图像的
+
+429
+00:21:53,122 --> 00:21:55,505
+we're going to move our perspective of our spins
+我们把自旋体的透视图
+
+430
+00:21:55,506 --> 00:21:56,985
+from the side to the top
+从侧面移到顶部
+
+431
+00:21:56,985 --> 00:21:58,841
+and represent each grouping simply by
+呈现出每个组 仅仅通过
+
+432
+00:21:58,842 --> 00:22:02,838
+the net magnetic field rotating around the axis
+绕着轴旋转的净磁场
+
+433
+00:22:08,933 --> 00:22:12,463
+remember that the Larmor or resonant frequency of our spins
+记住自旋体的拉莫尔或者共振频率
+
+434
+00:22:12,463 --> 00:22:16,704
+is determined by the strength of the local magnetic field
+是由所属磁场的强度决定的
+
+435
+00:22:17,863 --> 00:22:20,487
+when we first get into the MRI machine
+当我们第一次进入MRI机器时
+
+436
+00:22:20,487 --> 00:22:21,985
+a superconducting magnet creates
+一个超导磁体产生出
+
+437
+00:22:21,986 --> 00:22:24,820
+a near homogeneous magnetic field
+一个邻近的同质磁场
+
+438
+00:22:24,820 --> 00:22:26,331
+from one side to the other
+从一头到另一头
+
+439
+00:22:26,331 --> 00:22:29,100
+that determines the strength of MRI machine
+决定着MRI机器的强度
+
+440
+00:22:29,100 --> 00:22:30,744
+common systems are 1
+常规系统是1、
+
+441
+00:22:30,745 --> 00:22:33,603
+1.5 and 3 Tesla in strength
+1.5及3 T的强度
+
+442
+00:22:33,603 --> 00:22:37,503
+there are 3 sets of gradient magnets in the MRI
+MRI中有3套梯度磁体
+
+443
+00:22:37,504 --> 00:22:40,505
+used to localize signals in 3D space
+用于3D空间的定位
+
+444
+00:22:40,944 --> 00:22:44,256
+the Z-axis
+Z轴
+
+445
+00:22:50,834 --> 00:22:54,181
+X-axis, and Y-axis
+X轴,以及Y轴
+
+446
+00:22:54,181 --> 00:22:57,430
+to select a particular slice of tissue in the body
+为了选出体内特定的一层组织
+
+447
+00:22:57,432 --> 00:23:01,042
+we can turn on the set of electromagnets along the z-axis
+我们可以沿着Z轴打开电磁梯度
+
+448
+00:23:01,042 --> 00:23:04,941
+that create a magnetic gradient from head to toe
+从而从头部到脚部形成一个磁梯度
+
+449
+00:23:04,961 --> 00:23:06,909
+we now put in a radio pulse
+现在我们放入一定频率的频射脉冲
+
+450
+00:23:06,910 --> 00:23:08,505
+with the frequency that will cause
+这种频率能使待观察部位
+
+451
+00:23:08,505 --> 00:23:11,838
+the desired area to resonate as described earlier
+发生如前文所述的共振
+
+452
+00:23:11,838 --> 00:23:14,800
+we have now selected our slice to the body
+现在我们选择了身体的一个截面
+
+453
+00:23:15,962 --> 00:23:19,033
+because the local magnetic gradient is homogeneous
+因为所在磁场的梯度是同质的
+
+454
+00:23:19,034 --> 00:23:21,735
+all of these net magnetic moment in a slice
+一个截面里的所有净磁距
+
+455
+00:23:21,737 --> 00:23:24,416
+are in phase spinning together in sync
+都是同相的，在一起同步自旋
+
+456
+00:23:24,416 --> 00:23:26,714
+and can't be distinguished from one another
+无法互相区分出来
+
+457
+00:23:26,714 --> 00:23:29,093
+to further localised these magnetic moments
+为了通过其特有的强度
+
+458
+00:23:29,093 --> 00:23:31,621
+in their signal strength we have two more gradients
+进一步定位这些磁距，我们有另外两个梯度
+
+459
+00:23:31,621 --> 00:23:34,626
+that we can use to isolate the source of the signals
+可以用来区分信号来源
+
+460
+00:23:34,626 --> 00:23:37,916
+the first gradient is called the phase encoding gradient
+第一个梯度叫做相位编码梯度
+
+461
+00:23:37,917 --> 00:23:38,987
+to demonstrate the effect
+为了展示出效应
+
+462
+00:23:38,987 --> 00:23:42,126
+we're going to slow down our net magnetic moments
+我们会减慢净磁距
+
+463
+00:23:42,126 --> 00:23:44,653
+the phase encoding gradient is briefly turned on
+把相位编码梯度打开
+
+464
+00:23:44,653 --> 00:23:48,370
+creating a gradient along the Y-axis in this particular case
+在此特定情形下沿着Y轴建立一个梯度
+
+465
+00:23:48,370 --> 00:23:50,647
+resulting in the magnetic moments
+使得梯度底部的
+
+466
+00:23:50,648 --> 00:23:53,051
+at the bottom of the gradient to slow down
+磁距减慢
+
+467
+00:23:53,051 --> 00:23:54,428
+and the ones at the top
+而磁场顶部的
+
+468
+00:23:54,429 --> 00:23:56,863
+where the local magnetic field is stronger to speed up
+用来使磁距加快
+
+469
+00:23:56,863 --> 00:23:59,125
+the gradiient is quickly turned off
+磁距很快关闭
+
+470
+00:23:59,126 --> 00:24:02,218
+and the spinning magnets return to the base frequency
+自旋磁体回到基线频率
+
+471
+00:24:02,218 --> 00:24:04,015
+spinning at the same rate
+以相同速率自旋
+
+472
+00:24:04,015 --> 00:24:07,718
+but they have now experienced a phase shift in the Y-axis
+但它们现在Y轴上进行着相移
+
+473
+00:24:07,718 --> 00:24:11,600
+which we can use to localize the spins in the Y-direction
+这就使我们可以在Y方向上定位自旋体
+
+474
+00:24:11,601 --> 00:24:15,682
+we then tune our system to focus on a particular phase in the matrix
+然后我们调制系统，聚焦在矩阵的特定相位上
+
+475
+00:24:15,682 --> 00:24:18,500
+and use our third gradient to the X-direction
+然后使用在X方向上的第三个梯度
+
+476
+00:24:18,501 --> 00:24:21,429
+to definitively localized each of the signals
+从而准确地把每一个信号定位
+
+477
+00:24:21,429 --> 00:24:22,847
+in the selected row
+在选定行里
+
+478
+00:24:22,847 --> 00:24:25,367
+this gradient again causes the spins
+这种梯度同样使
+
+479
+00:24:25,367 --> 00:24:26,979
+to the right to slow down
+向右的自旋体减速
+
+480
+00:24:26,979 --> 00:24:29,192
+and the ones on the left to speed up
+使向左的自旋体加速
+
+481
+00:24:29,498 --> 00:24:32,322
+this frequency encoding gradient remains on
+这种频率编码梯度
+
+482
+00:24:32,322 --> 00:24:34,026
+while the signals are recorded
+在记录信号的时候一直开着
+
+483
+00:24:34,027 --> 00:24:37,383
+now each of the signals has a unique phase  and frequency
+现在每一个信号都有一个特定的相位和频率
+
+484
+00:24:37,384 --> 00:24:39,858
+which can be localized in 3D space
+能够在3D空间里进行定位
+
+485
+00:24:39,858 --> 00:24:42,838
+the whole process is repeated for each row
+整个过程在每一行上重复着
+
+486
+00:24:42,838 --> 00:24:45,027
+localizing, in this example
+在本例中的定位
+
+487
+00:24:45,028 --> 00:24:47,897
+in the Y-direction with the phase encoding gradient
+用相位编码梯度定位于Y方向
+
+488
+00:24:47,897 --> 00:24:50,963
+and in the X-direction with the frequency encoding gradient
+用频率编码梯度定位于X方向
+
+489
+00:24:50,963 --> 00:24:53,413
+until the entire matrix is complete
+直到整个矩阵完成
+
+490
+00:25:07,962 --> 00:25:10,073
+each of the squares or voxels
+每个正方形或体素
+
+491
+00:25:10,073 --> 00:25:11,934
+are assigned a grayscale value
+都指定为一个灰度值
+
+492
+00:25:11,934 --> 00:25:14,641
+corresponding to the strength of the local signal
+对应于其信号强度
+
+493
+00:25:14,642 --> 00:25:17,556
+by convention, white being a strong signal
+根据惯例，白色是强信号
+
+494
+00:25:17,556 --> 00:25:19,614
+and black being no signal at all
+黑色是完全无信号
+
+495
+00:25:19,615 --> 00:25:21,661
+in this simplified example
+在这个简化示例中
+
+496
+00:25:21,662 --> 00:25:24,440
+our 4 by 4 matrix doesn't look like much
+是不太好看的4*4矩阵
+
+497
+00:25:24,440 --> 00:25:30,309
+but a standard MRI with a 256 by 256 or 512 by 512 matrix
+而256*256或者512*512的矩阵的标准MRI
+
+498
+00:25:30,309 --> 00:25:35,418
+will provide exquisite in anatomic detail of the body
+能提供原子细节的精确信息
+
+499
+00:25:39,997 --> 00:25:43,610
+for Giuliana
+送给朱莉安娜
+
+500
+00:25:43,611 --> 00:25:46,029
+Good Luck with Science Fair
+祝你科研展览会好运
+
+501
+00:25:46,030 --> 00:25:49,837
+字幕\时间轴\翻译：核儿
+
